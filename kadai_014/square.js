@@ -1,5 +1,5 @@
 const spuare = (num) => {
-  console.log(num * num);
+  return num * num;
 }
 
-spuare(10);
+console.log(spuare(10));
